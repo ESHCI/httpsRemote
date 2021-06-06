@@ -3,6 +3,6 @@ This is first version of the file Proj 2019.txt
 
 6th June
 Second Line Added
-Third line added
+Third line added -- I will come back to this change using Reset Command
 
 How to check git diff changes
