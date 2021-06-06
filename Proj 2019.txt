@@ -5,4 +5,4 @@ This is first version of the file Proj 2019.txt
 Second Line Added
 Third line added
 
-file name changed
+How to check git diff changes
